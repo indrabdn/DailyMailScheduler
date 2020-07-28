@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidNightMailSender", "MidNightMailSender\MidNightMailSender.csproj", "{D3172026-80C6-4C54-8B33-0A35CFEC9AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidNightMailSender.Data", "MidNightMailSender.Data\MidNightMailSender.Data.csproj", "{81D4DFFE-C534-4DF8-9937-0C0F3C47ADC1}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MidNightMailSender.UI(1)", "MidNightMailSender.UI\", "{06C837AA-1C64-4512-80C9-C7B7E5395EE7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{81d4dffe-c534-4df8-9937-0c0f3c47adc1}|MidNightMailSender.Data.dll;{cf01d5fa-6d0d-400c-a548-beacb4af442b}|MidNightMailSeder.Mail.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56894"
+		Debug.AspNetCompiler.PhysicalPath = "MidNightMailSender.UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56894\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56894"
+		Release.AspNetCompiler.PhysicalPath = "MidNightMailSender.UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56894\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56894"
+		SlnRelativePath = "MidNightMailSender.UI\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidNightMailSeder.Mail", "MidNightMailSeder.Mail\MidNightMailSeder.Mail.csproj", "{CF01D5FA-6D0D-400C-A548-BEACB4AF442B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3172026-80C6-4C54-8B33-0A35CFEC9AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3172026-80C6-4C54-8B33-0A35CFEC9AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3172026-80C6-4C54-8B33-0A35CFEC9AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3172026-80C6-4C54-8B33-0A35CFEC9AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D4DFFE-C534-4DF8-9937-0C0F3C47ADC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D4DFFE-C534-4DF8-9937-0C0F3C47ADC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D4DFFE-C534-4DF8-9937-0C0F3C47ADC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D4DFFE-C534-4DF8-9937-0C0F3C47ADC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C837AA-1C64-4512-80C9-C7B7E5395EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C837AA-1C64-4512-80C9-C7B7E5395EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C837AA-1C64-4512-80C9-C7B7E5395EE7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C837AA-1C64-4512-80C9-C7B7E5395EE7}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CF01D5FA-6D0D-400C-A548-BEACB4AF442B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF01D5FA-6D0D-400C-A548-BEACB4AF442B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF01D5FA-6D0D-400C-A548-BEACB4AF442B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF01D5FA-6D0D-400C-A548-BEACB4AF442B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FEA0FAF-FFBE-4AEB-BBA5-CD13ED48249A}
+	EndGlobalSection
+EndGlobal

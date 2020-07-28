@@ -1,0 +1,5 @@
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSeder.Mail\bin\Debug\MidNightMailSeder.Mail.dll
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSeder.Mail\bin\Debug\MidNightMailSeder.Mail.pdb
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSeder.Mail\obj\Debug\MidNightMailSeder.Mail.csprojAssemblyReference.cache
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSeder.Mail\obj\Debug\MidNightMailSeder.Mail.dll
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSeder.Mail\obj\Debug\MidNightMailSeder.Mail.pdb

@@ -1,0 +1,11 @@
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\bin\Debug\MidNightMailSender.Data.dll.config
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\bin\Debug\MidNightMailSender.Data.dll
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\bin\Debug\MidNightMailSender.Data.pdb
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\bin\Debug\EntityFramework.dll
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\bin\Debug\EntityFramework.xml
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\obj\Debug\MidNightMailSender.Data.csprojAssemblyReference.cache
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\obj\Debug\MidNightMailSender.Data.csproj.CopyComplete
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\obj\Debug\MidNightMailSender.Data.dll
+C:\Users\Indraraj\source\repos\MidNightMailSender\MidNightMailSender.Data\obj\Debug\MidNightMailSender.Data.pdb

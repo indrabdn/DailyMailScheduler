@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>MidNightMailSeder.Mail.Id</id>
+    <id>MidNightMailSeder.Mail</id>
     <version>$version$</version>
     <title>MidNightMailSeder.Mail</title>
     <authors>Indra</authors>

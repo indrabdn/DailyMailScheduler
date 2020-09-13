@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>MidNightMailSender</id>
+    <version>$version$</version>
+    <title>MidNightMailSender</title>
+    <authors>Indra</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>    
+    <description>description of MidNightMailSender</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>MidNightMailSender</tags>
+  </metadata>
+</package>
